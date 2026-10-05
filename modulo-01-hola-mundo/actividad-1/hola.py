@@ -1,2 +1,6 @@
-print("Hola Joosue")
-print("Que aprendáis a programar")
+print("Qué hemos aprendido hoy?")
+print("1. terminal")
+print("2. archivo py es python")
+print("3. imprimir en pantalla")
+print("4. ejecutar programa python")
+print("5. subirlo a la nube")
